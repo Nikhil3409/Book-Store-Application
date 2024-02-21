@@ -1,0 +1,18 @@
+.fas {
+  top: 8px;
+}
+
+.create-book-form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.header {
+  text-align: center;
+  color: white;
+  margin-bottom: 15px;
+}

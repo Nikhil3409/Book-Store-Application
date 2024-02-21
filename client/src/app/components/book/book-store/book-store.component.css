@@ -1,0 +1,14 @@
+.books-store {
+  /* margin: 30px auto; */
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+/* .top {
+  margin-top: 50px;
+} */
+
+.bottom {
+  margin-bottom: 50px;
+}
